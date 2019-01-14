@@ -6,7 +6,7 @@
 
 # ts-dynamic-plugin
 
-> Modular dynamic plugin for TypeScript
+> module dynamic import plugin for TypeScript
 
 ## Table of Contents
 

@@ -1,6 +1,7 @@
 {
   "name": "ts-dynamic-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "description": "module dynamic import plugin for TypeScript",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "repository": "git@github.com:Jetsly/ts-dynamic-plugin.git",

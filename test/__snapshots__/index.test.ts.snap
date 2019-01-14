@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ts-dynamic-plugin auto import.ts 1`] = `
+"import { formatLocale } from './utils/locale';
+const a = formatLocale({ id: 'string' });
+"
+`;
